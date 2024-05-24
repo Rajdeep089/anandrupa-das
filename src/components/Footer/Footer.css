@@ -1,0 +1,70 @@
+/* --------- */
+/* Footer */
+/* --------- */
+.footer {
+  background: #000000;
+  /* background: linear-gradient(0deg, #000000, #FFA800, #362300); */
+  bottom: 0 !important;
+  /* padding-top: 5px !important;
+  padding-bottom: 5px !important; */
+  color: white;
+}
+
+
+
+.footer-links a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.footer-icons {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.footer-icons svg {
+  margin: 0 10px;
+  color: white;
+}
+
+.footer-copywright {
+  margin-top: 20px;
+  padding: 10px 0 !important;
+}
+
+
+
+.footer-body {
+  z-index: 1;
+  text-align: center !important;
+}
+
+@media (max-width: 767px) {
+  
+
+  .footer-body {
+    text-align: center !important;
+  }
+}
+
+.footer h3 {
+  font-size: 1em;
+  color: white !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
+.footer-icons {
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+  padding: 1rem 0 !important;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.blockquote-footer {
+  color: #a588c0 !important;
+}
